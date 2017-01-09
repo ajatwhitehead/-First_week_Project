@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\bin\Debug\First week Project.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\bin\Debug\First week Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\bin\Debug\First week Project.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\obj\Debug\First week Project.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\obj\Debug\First week Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\First week Project\First week Project\obj\Debug\First week Project.pdb
